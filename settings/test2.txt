@@ -1,0 +1,20 @@
+Armour XY
+1739 491
+Bait XY
+1524 616
+Marble XY
+1572 619
+Skill XY
+1500 616
+Bait Settings
+1 2
+Marble Settings
+1 2
+Calibration
+0 0
+Mode
+1
+Random Chat
+0
+Fish List
+0011111111111111111111111111111111111111111111
